@@ -1,0 +1,4 @@
+helpful.txt
+__pycache__/
+controllers/__pycache__/
+venv/
